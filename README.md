@@ -7,9 +7,9 @@ Sparrow is a platform which tends to connect startups with mentors so that queri
 <img src="ss1.jpg" width=30%> <img src="ss2.jpg" width=30%>
 <img src="ss3.jpg" width=30%>
 
-#### [Download APK](demo.apk)
+#### [Download APK](demo.apk) Referral Code: himanshuk27
 
-#### [Play Store](https://play.google.com/store/apps/details?id=com.kodexlabs.sparrow)
+#### [Play Store](https://play.google.com/store/apps/details?id=com.kodexlabs.sparrow) Referral Code: himanshuk27
 
 ## Project Experience
 
